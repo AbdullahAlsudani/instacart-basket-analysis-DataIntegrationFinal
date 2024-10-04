@@ -14,7 +14,7 @@ The dataset used in this project is the **Instacart Market Basket Analysis** dat
 
 ## Contributions
 
-This project was conducted by [Abdullah Alsudani], a student of GISMA University, as part of the Data Integration course (retake)
+This project was conducted by [Abdullah Alsudani], a student of GISMA University of applied sciences, as part of the Data Integration course (retake)
 
 citation:
 jeremy stanley, Meg Risdal, sharathrao, Will Cukierski. (2017). Instacart Market Basket Analysis. Kaggle. https://kaggle.com/competitions/instacart-market-basket-analysis
